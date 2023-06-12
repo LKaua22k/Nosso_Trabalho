@@ -18,16 +18,23 @@ a{
     --text-darck-light:#7158EF;
     --text-darck-gray:#0A0039;
 
+    --font-epilogue:'Epilogue', sans-serif;
+
     font-size: 62.5%;
 }
 
 body{
     background-color: var(--bock-body);
     font-size: 1.6rem;
+    font-family: var(--font-epilogue);
 }
 
 main{
     margin: 0 auto;
     max-width: 74.2rem;
     padding: 62px 2.3rem 6.6rem;
+}
+
+.box-1{
+    width: 32.9rem ;
 }
