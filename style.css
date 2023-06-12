@@ -36,5 +36,27 @@ main{
 }
 
 .box-1{
-    width: 32.9rem ;
+    max-width: 32.9rem ;
+}
+
+.box-1 span{
+    color: var(--text-darck-light);
+    font-weight: 400;
+    letter-spacing: 3px;
+    line-height: 3.2rem;
+}
+
+.box-1 h1{
+    color:var(--text-darck) ;
+    font-weight: 800;
+    font-size: 4rem;
+    line-height: 4rem;
+    margin: 1.5rem 0;
+}
+
+.box-1 p {
+    color: var(--text-darck-gray);
+    font-weight: 400;
+    line-height: 3.2rem;
+    margin-bottom: 3.2rem;
 }
