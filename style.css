@@ -32,11 +32,7 @@ body{
 
 main{
     margin: 0 auto;
-    max-width: 74.2rem;
-}
-
-.box-1{
-    max-width: 32.9rem ;
+    max-width: 32.9rem;
 }
 
 .box-1 span{
@@ -53,6 +49,7 @@ main{
     font-size: 4rem;
     line-height: 4rem;
     margin: 1.5rem 0;
+    
 }
 
 .box-1 p {
