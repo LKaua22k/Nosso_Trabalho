@@ -27,12 +27,12 @@ body{
     background-color: var(--bock-body);
     font-size: 1.6rem;
     font-family: var(--font-epilogue);
+    padding: 6.2rem 2.3rem 6.6rem;
 }
 
 main{
     margin: 0 auto;
     max-width: 74.2rem;
-    padding: 62px 2.3rem 6.6rem;
 }
 
 .box-1{
@@ -44,6 +44,7 @@ main{
     font-weight: 400;
     letter-spacing: 3px;
     line-height: 3.2rem;
+    text-transform: uppercase;
 }
 
 .box-1 h1{
