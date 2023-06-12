@@ -3,3 +3,23 @@
     padding: 0;
     box-sizing: border-box;
 }
+
+:root{
+    --bock-body:#ECE9FD;
+    --text-darck:#090039;
+    --text-darck-light:#7158EF;
+    --text-darck-gray:#0A0039;
+
+    font-size: 62.5%;
+}
+
+body{
+    background-color: var(--bock-body);
+    font-size: 1.6rem;
+}
+
+.container{
+    margin: 0 auto;
+    max-width: 74.2rem;
+    padding: 62px 2.3rem 6.6rem;
+}
