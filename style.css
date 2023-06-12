@@ -71,6 +71,7 @@ main{
 main ul{
     color: var(--text-darck);
     display: flex;
+    flex-direction: column;
     gap: 3.2rem;
 }
 
