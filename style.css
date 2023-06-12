@@ -4,6 +4,14 @@
     box-sizing: border-box;
 }
 
+ul {
+    list-style: none;
+}
+
+a{
+    text-decoration: none;
+}
+
 :root{
     --bock-body:#ECE9FD;
     --text-darck:#090039;
