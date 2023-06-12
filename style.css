@@ -68,6 +68,10 @@ main{
     line-height: 3.2rem;
 }
 
+.box-1 a:hover {
+    font-weight: 700;
+}
+
 main ul{
     color: var(--text-darck);
     display: flex;
