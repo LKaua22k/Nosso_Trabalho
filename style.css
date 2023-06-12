@@ -67,3 +67,25 @@ main{
     font-weight: 400;
     line-height: 3.2rem;
 }
+
+main ul{
+    color: var(--text-darck);
+    display: flex;
+    gap: 3.2rem;
+}
+
+main ul li{
+    display: flex;
+    gap: 3.8rem;
+    align-items: center;
+    font-size: 2.4rem;
+    line-height: 3.2rem;
+    font-weight: 700;
+}
+
+main ul li span{
+    font-size:7.2rem;
+    font-weight: 800;
+    line-height: 8rem;
+    letter-spacing: -2px;
+}
